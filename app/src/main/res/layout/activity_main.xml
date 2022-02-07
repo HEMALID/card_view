@@ -109,7 +109,7 @@
                 android:layout_height="160dp"
                 android:layout_margin="20dp"
                 app:cardCornerRadius="20dp"
-                app:cardElevation="10dp"
+                app:cardElevation="15dp"
                 tools:layout_editor_absoluteX="16dp"
                 tools:layout_editor_absoluteY="30dp">
 
